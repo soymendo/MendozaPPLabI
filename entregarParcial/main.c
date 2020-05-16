@@ -43,7 +43,7 @@ int main()
     //mostrarServicios(vecServicio,SER);
     //mostrarColores(vecColor,COL);
     hardcodearMascotas(vecMascota,4);
-    hardcodearTrabajos(vecTrabajo,4);
+    hardcodearTrabajos(vecTrabajo,3);
 
 
 
@@ -52,7 +52,7 @@ int main()
     int opcion=0;
     int flagA=1;
     int flagB=1;
-    int lastId=5;
+    int lastId=4;
     int lastIdMascota=104;
 
 

@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1589577980 source:c:\users\maxi\desktop\2010\entregarparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1589577980 c:\users\maxi\desktop\2010\entregarparcial\funciones.h
+
+1589586793 source:c:\users\maxi\desktop\2010\entregarparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"mascota.h"
+	"trabajo.h"
+
+1589587798 c:\users\maxi\desktop\2010\entregarparcial\mascota.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1589586850 source:c:\users\maxi\desktop\2010\entregarparcial\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataMascota.h"
+	"mascota.h"
+
+1589586343 c:\users\maxi\desktop\2010\entregarparcial\datamascota.h
+
+1589587934 c:\users\maxi\desktop\2010\entregarparcial\tipo.h
+
+1589585404 source:c:\users\maxi\desktop\2010\entregarparcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataTipo.h"
+	"tipo.h"
+
+1589585418 c:\users\maxi\desktop\2010\entregarparcial\datatipo.h
+
+1589587934 c:\users\maxi\desktop\2010\entregarparcial\color.h
+
+1589585945 source:c:\users\maxi\desktop\2010\entregarparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataColor.h"
+	"color.h"
+
+1589585945 c:\users\maxi\desktop\2010\entregarparcial\datacolor.h
+
+1589587960 c:\users\maxi\desktop\2010\entregarparcial\servicio.h
+
+1589586224 source:c:\users\maxi\desktop\2010\entregarparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataServicio.h"
+	"servicio.h"
+
+1589586224 c:\users\maxi\desktop\2010\entregarparcial\dataservicio.h
+
+1589588354 c:\users\maxi\desktop\2010\entregarparcial\trabajo.h
+
+1589586882 source:c:\users\maxi\desktop\2010\entregarparcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"mascota.h"
+	"dataTrabajo.h"
+	"trabajo.h"
+
+1589586343 c:\users\maxi\desktop\2010\entregarparcial\datatrabajo.h
+

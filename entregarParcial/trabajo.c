@@ -103,7 +103,7 @@ void mostrarTrabajo(eTrabajo trab,eServicio VecServicio[],int cantServicio,eMasc
             break;
         }
     }
-    printf("%d     %10s     %10s       %.2f  %d/%d/%d \n",trab.id,vecMascota[indice].nombre,VecServicio[indice2].descripcion,VecServicio[indice2].precio,trab.Fecha.dia,trab.Fecha.mes,trab.Fecha.anio );
+    printf("%d     %10s     %10s       %.2f  %0d/%0d/%0d \n",trab.id,vecMascota[indice].nombre,VecServicio[indice2].descripcion,VecServicio[indice2].precio,trab.Fecha.dia,trab.Fecha.mes,trab.Fecha.anio );
 }
 
 

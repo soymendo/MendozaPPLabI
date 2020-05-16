@@ -114,7 +114,7 @@ void mostrarTrabajos(eTrabajo vecTrabajo[],int cantTrabajo,eServicio vecServicio
 
 
     printf("****Listado de Trabajos*****\n\n");
-    printf("  Id      Nombre Mascota   Servicio    Precio   Fecha\n");
+    printf("  Id      Nombre Mascota   Servicio    Precio    Fecha\n");
     for(int i=0; i<cantTrabajo; i++)
     {
         if(vecTrabajo[i].estado ==1)// !=0
